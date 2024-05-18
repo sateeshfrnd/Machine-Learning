@@ -40,3 +40,7 @@ Key Steps in Stratified K-Fold Cross-Validation
 
 3. Repeat: Repeat step 2 for each fold.
 4. Aggregate Results: Calculate the average performance metric across all k folds to get an overall performance estimate.
+
+
+Note:
+- If data is small, instead of train-test split, you can go with K-Fold Cross Validation.
