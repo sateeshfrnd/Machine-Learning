@@ -110,3 +110,66 @@ DL is a subset of ML that uses neural networks with many layers (hence "deep") t
 
     - Explainability Tools:
         - LIME, SHAP, Grad-CAM.
+
+## 4. Data Science (DS)
+Data Science is the interdisciplinary field focused on extracting insights and knowledge from structured and unstructured data through various  statistical techniques, algorithms, and machine learning to analyze and interpret complex data. 
+
+DS involves the entire data process: collection, cleaning, analysis, and interpretation.
+
+
+- **Key Capabilities**:
+  - Data cleaning and preparation
+  - Statistical analysis and modeling
+  - Visualization and storytelling
+  
+- **Examples**:
+  - Customer behavior analysis 
+  - Business intelligence dashboards
+  - Financial forecasting
+  - Product recommendations
+
+- **Key Technologies**:
+    - Programming Languages:
+        - Python, R.
+
+    - Data Manipulation and Analysis:
+        - Pandas, NumPy.
+
+    - Data Visualization:
+        - Matplotlib, Seaborn, Tableau.
+
+    - Statistical Analysis:
+        - Scikit-learn, StatsModels.
+
+    - Databases:
+        - SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra).
+
+    - Big Data Technologies:
+        - Apache Hadoop, Apache Spark, Apache Kafka.
+
+    - Machine Learning Frameworks:
+        - TensorFlow, PyTorch.
+
+    - Cloud Platforms:
+        - AWS, Google Cloud, Microsoft Azure.
+
+    - Data Pipeline Tools:
+        - Apache Airflow, Luigi.
+
+    - Version Control:
+        - Git, Jupyter Notebooks.
+
+    - Experiment Tracking:
+        - MLflow, DVC (Data Version Control).
+
+## Relationships:
+- AI is the broadest field, covering all aspects of intelligence exhibited by machines.
+- ML is a subset of AI that focuses on algorithms learning from data.
+- DL is a subset of ML, leveraging deep neural networks to solve more complex problems.
+- DS overlaps with AI and ML, as it involves analyzing data, but its scope is broader, covering statistical methods, data engineering, and visualization.
+
+## Use in Modern Applications:
+- AI powers virtual assistants like Alexa and Siri.
+- ML is used in recommendation engines (Netflix, YouTube).
+- DL powers advanced applications like autonomous vehicles and facial recognition.
+- DS helps businesses make data-driven decisions by analyzing patterns and trends in big data.
